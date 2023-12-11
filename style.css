@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(fp.jpeg);
+    background-size: cover;
+}
+
+.nav{
+    height: 100px;
+    color: red;
+    font-family: 'Anton', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navlist{
+    padding-top: 30px ;
+    list-style: none;
+    float: right;
+}
+li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 8px;
+    margin-right: 90px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.icon{
+    display: inline-block;
+    padding: 30px;
+    margin-left: 90px;
+    
+}
+
+.te{
+    color: #61020a;
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+        
+}
+/* button{
+    display: block;
+    border: 2px solid red;
+    padding: 5px;
+    background-color: transparent;
+    color: darkgoldenrod ;
+    text-decoration: underline;
+    font-weight: 700;
+    margin: 140px 100px 0px  550px;
+    font-size: 35px;
+} */
